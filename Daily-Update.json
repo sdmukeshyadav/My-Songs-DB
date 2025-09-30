@@ -1,1 +1,16 @@
-
+{
+  "id": "1",
+  "title": "sanam teri kasam",
+  "artist": "sanam teri kasam",
+    "album": "sanam teri kasam",
+  "data": "https://aac.saavncdn.com/820/8799d2eb43ce358038fd365558ce5811_160.mp4",
+  "albumart": "https://c.saavncdn.com/820/Sanam-Teri-Kasam-Original-Motion-Picture-Soundtrack-Hindi-2016-20250521183235-500x500.jpg"
+  },
+  {
+    "id": "2",
+    "title": "agar nath dekhoge awagun hamare",
+    "artist": "pujya rajan ji maharaj",
+    "album": "pujya rajan ji maharaj",
+    "data": "https://aac.saavncdn.com/549/4d4062c8918e362f879a46e063ee051e_160.mp4",
+    "albumart": "https://c.saavncdn.com/370/Top-15-Bhajan-Hindi-2024-20240207180247-500x500.jpg"
+  }
